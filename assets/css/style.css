@@ -1,0 +1,120 @@
+body{
+	background-color: #eaeae1;
+}
+
+a{
+	color: gray;
+}
+
+.btn-follow{
+	width: 120px;
+	margin-right: 10px;
+	background-color: #5D5C5C;
+
+}
+.f-btn{
+	width: 388px;
+	background-color: #5D5C5C;
+}
+.f-btn:hover{
+	width: 388px;
+	background-color: green;
+}
+.notfound{
+	text-align: center;s
+}
+
+.pic{
+	width: auto;
+	height: auto;
+	margin-bottom: 21px;
+}
+.interaction a {
+	text-decoration: none;
+}
+
+.underscore{
+	text-decoration: none;
+}
+
+.account-info > img {
+	float: left;
+}
+
+.account-info > .identity-info {
+	position: relative;
+}
+
+.name-info{
+	margin-top: 0px;
+	padding-top: 3px;
+	margin-bottom: -7px;
+}
+
+.image-info{
+	border-radius: 6px;
+	height: 47px;
+	width: 49px;
+	margin-right: 1%;
+}
+
+.account-info  a{
+	text-decoration: none;
+}
+
+.id-info {
+
+}
+
+
+.interaction {
+	font-size: 16px;
+	padding-top: 4px;
+	margin-bottom: 6px;
+}
+.status{
+	margin-top: 7px;
+	color: rgba(0, 0, 0, 0.8);
+}
+
+.regis{
+	margin: auto;	
+	margin-bottom: 10px;
+}
+
+.footer{
+	clear: both;
+	background-color: gray;
+	height: 100px;
+}
+
+.comment {
+	padding: 1px 13px;
+	margin-top: -11px;
+}
+
+.comment-name{
+	float: left;
+	margin-right: 5px;
+}
+
+.comment-list{
+	display: inline;
+}
+
+#overlayup {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+
+    background:black;
+    background:rgba(0,0,0,0.8);
+
+    filter:blur(4px);
+    -o-filter:blur(4px);
+    -ms-filter:blur(4px);
+    -moz-filter:blur(4px);
+    -webkit-filter:blur(4px);
+}
